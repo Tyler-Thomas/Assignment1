@@ -1,3 +1,26 @@
+#title {
+    color: black;
+    background-color: rgba(3, 128, 177, 0.849);
+    margin-top: 0px;
+    margin-left: 0px
+}
+
+a {
+    text-align: right;
+}
+
+html {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
 body {
     background-color: powderblue;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p {
+    color: black;
+    font-family: "courier";
 }
