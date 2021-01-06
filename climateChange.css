@@ -5,8 +5,9 @@
     margin-left: 0px
 }
 
-a {
+#next-page {
     text-align: right;
+    color: black;
 }
 
 html {
