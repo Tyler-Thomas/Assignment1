@@ -1,13 +1,30 @@
 #title {
     color: black;
     background-color: rgba(3, 128, 177, 0.849);
-    margin-top: 0px;
-    margin-left: 0px
+    position: static;
+    display: inline-flex;
+    width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+    right: 0%;
+    top: 0%;
 }
 
 #next-page {
     text-align: right;
     color: black;
+}
+
+.imageContainer {
+    display: flexbox;
+    flex-direction: row;
+
+}
+
+.imgages {
+    border: 3px;
+    border-style: solid;
+    border-color: black;
 }
 
 html {
